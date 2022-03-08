@@ -1,10 +1,4 @@
-title: "Reproducible Research: Peer Assessment 1"
-author: "Peter Dunham"
-date: "February 22, 2016"
-output: 
-  html_document:
-    keep_md: true
----
+
 
 ## Loading and preprocessing the data
 
